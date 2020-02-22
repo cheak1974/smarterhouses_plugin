@@ -1,0 +1,1 @@
+"# smarterhouses_plugin" 
