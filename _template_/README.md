@@ -1,1 +1,2 @@
-"# smarterhouses_plugin" 
+# Template for smarterhouses Plugins
+ 
