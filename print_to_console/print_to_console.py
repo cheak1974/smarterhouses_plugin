@@ -2,6 +2,7 @@ import core.globals
 import core.plugin
 import sys
 
+# This is a test.
 
 sys.path.append(sys.path[0] + './/plugin//print_to_console//lib')
 # import your Library, here are no libraries needed
